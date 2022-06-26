@@ -1,0 +1,16 @@
+[
+    {
+        "ip": "10.188.131.1",
+        "nome": "3750-CL-02",
+        "tags": {
+            "TE3220_047.VAL_PV_OUT": [
+                "TESTE",
+                "5",
+                [
+                    "horacio.biancardi@ferroport.com.br",
+                    "ca_fe2001@hotmail.com"
+                ]
+            ]
+        }
+    }
+]

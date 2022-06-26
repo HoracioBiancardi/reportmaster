@@ -1,0 +1,82 @@
+[
+    {
+        "ip": "10.188.131.1",
+        "nome": "3750-CL-02",
+        "tags": {
+            "DIN_00_09_25": [
+                "entrada de sensores",
+                "0",
+                [
+                    "horacio.biancardi@ferroport.com.br",
+                    "francisco.lima@ferroport.com.br",
+                    "ociney.teixeira@ferroport.com.br"
+                ]
+            ],
+            "DIN_00_08_15": [
+                "alarme de sensores 2",
+                "0",
+                [
+                    "ociney.teixeira@ferroport.com.br",
+                    "francisco.lima@ferroport.com.br",
+                    "horacio.biancardi@ferroport.com.br"
+                ]
+            ],
+            "E3220BL01_BAL_MEDIA": [
+                "vazao nominal da bala\u00e7a",
+                "3000",
+                [
+                    "horacio.biancardi@ferroport.com.br"
+                ]
+            ],
+            "TE3220_043.VAL_PV_OUT": [
+                "vibracao",
+                "10",
+                [
+                    "francisco.lima@ferroport.com.br",
+                    "horacio.biancardi@ferroport.com.br"
+                ]
+            ],
+            "TE3220_047.VAL_PV_OUT": [
+                "TESTE",
+                "5",
+                [
+                    "francisco.lima@ferroport.com.br"
+                ]
+            ],
+            "DIN_00_08_13": [
+                "jhdkdhkdhdk",
+                "0",
+                [
+                    "horacio.biancardi@ferroport.com.br"
+                ]
+            ],
+            "Perfil_Carga_Atual": [
+                "ddddddddd",
+                "65",
+                [
+                    "horacio.biancardi@ferroport.com.br"
+                ]
+            ],
+            "DIN_00_07_08": [
+                "mnnnnn",
+                "1",
+                [
+                    "ociney.teixeira@ferroport.com.br"
+                ]
+            ]
+        }
+    },
+    {
+        "ip": "10.188.131.2",
+        "nome": "3750-CL-03",
+        "tags": {
+            "DIN_00_10_06": [
+                "teste do outro controlador",
+                "1",
+                [
+                    "horacio.biancardi@ferroport.com.br"
+                ]
+            ]
+        }
+    }
+]
